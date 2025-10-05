@@ -854,10 +854,10 @@ local InfoTab = Window:MakeTab({ Title = "الحقوق", Icon = "rbxassetid://81
 
 InfoTab:AddSection({ "معلومات سكربت" })
 InfoTab:AddParagraph({ "sukuna_333857 المطور: اسماعيل حساب روب" })
-InfoTab:AddParagraph({ "TIK TOK: sukunahub6" })
+InfoTab:AddParagraph({ "TIK TOK: ney_marr2" })
 InfoTab:AddParagraph({ "GUI: WX" })
 InfoTab:AddParagraph({ "لو تريد تتعاون معي تواصل تيلي" })
-InfoTab:AddParagraph({ "Telegram: @Luciferhub22" })
+InfoTab:AddParagraph({ "Telegram: @ney_marr2" })
 local LocalPlayerTab = Window:MakeTab({"اللاعب", "user"})
 -- Seção para Scripts Universais
 Section = LocalPlayerTab:AddSection({
