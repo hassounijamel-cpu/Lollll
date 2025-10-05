@@ -531,10 +531,10 @@ local localPlayer = Players.LocalPlayer
 
 -- Usuários autorizados
 local allowedUsers = {
-	["SUKUNA_333857"] = true,
-	["uebsbzqJs"] = true,
-	["suksh0_0"] = true,
-	["SUKUNA_333857"] = true
+	["Kdkjdnde"] = true,
+	["Kdkjdnde"] = true,
+	["Kdkjdnde"] = true,
+	["Kdkjdnde"] = true
 }
 
 local loopKill = false
@@ -841,9 +841,9 @@ workspace.FallenPartsDestroyHeight = -math.huge
 
 local Window = Libary:MakeWindow({
     Title = "NEYMAR HUB",
-    SubTitle = "by: sukuna",
+    SubTitle = "by: NEYMAR",
     LoadText = "Best Arabic script",
-    Flags = "ismail_Broookhaven"
+    Flags = "NEYMAR_Broookhaven"
 })
 Window:AddMinimizeButton({
     Button = { Image = "rbxassetid://81886512783938", BackgroundTransparency = 0 },
@@ -853,7 +853,7 @@ local InfoTab = Window:MakeTab({ Title = "الحقوق", Icon = "rbxassetid://81
 
 
 InfoTab:AddSection({ "معلومات سكربت" })
-InfoTab:AddParagraph({ "sukuna_333857 المطور: اسماعيل حساب روب" })
+InfoTab:AddParagraph({ "Kdkjdnde المطور: نيمار حساب روب" })
 InfoTab:AddParagraph({ "TIK TOK: ney_marr2" })
 InfoTab:AddParagraph({ "GUI: WX" })
 InfoTab:AddParagraph({ "لو تريد تتعاون معي تواصل تيلي" })
